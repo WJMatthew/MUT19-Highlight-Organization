@@ -1,6 +1,13 @@
 # MUT19 Highlight Organization
 ### Matthew Johnson, 2019
 
+
+idea: 
+classes (7):
+* Left-Run, Left-Pass, Left-Fake
+* Right-Run, Right-Pass, Right-Fake
+* Neither
+
 I started this project because I had 89Gb worth of 1 minute video clips containing highlights (~2100 clips) taken from Madden 19. Most of which were from a mode called squads (2v2 or 3v3). I wanted to organize these by play type without manually watching all of them. 
 
 I was already (usually) saving the screenshot at a time where the play art was still visible [IMG HERE]. 
