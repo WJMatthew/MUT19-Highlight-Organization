@@ -7,11 +7,16 @@ Currently ~
 2. Classify test files for Pass/Run/Fake after cropping out irrelevant side as decided by (1): 97%  
 
 
+### Example of final frame of video with crop locations
 ![img](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/crop_locations.jpg)
+
+### Cropped and Combined Bottom
+![img2](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/cropped_bottom_combined.jpg)
+
 
 97% on squads/non
 95% on L/R
-75% on playtype
+97% on playtype
 
 
 idea:
