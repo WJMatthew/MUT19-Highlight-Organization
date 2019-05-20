@@ -2,6 +2,9 @@
 ### Matthew Johnson, 2019
 
 
+Models: Convolutional Neural Network (CNN)
+
+
 Currently ~
 1. Classify test files for Left/Right/Neither: 97% 
 2. Classify test files for Pass/Run/Fake after cropping out irrelevant side as decided by (1): 97%  
