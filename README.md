@@ -17,6 +17,15 @@ Currently ~
 ![img2](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/cropped_bottom_combined.jpg)
 
 
+### Distribution of labelled data
+![dists](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/labelled_dists.png)
+
+
+#### Squads/Not-squads
+![sq](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/example_sq_nsq.png)
+
+
+
 97% on squads/non
 95% on L/R
 97% on playtype
