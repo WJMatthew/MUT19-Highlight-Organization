@@ -7,7 +7,7 @@ Currently ~
 2. Classify test files for Pass/Run/Fake after cropping out irrelevant side as decided by (1): 97%  
 
 
-[!img](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/crop_locations.jpg)
+![img](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/crop_locations.jpg)
 
 97% on squads/non
 95% on L/R
