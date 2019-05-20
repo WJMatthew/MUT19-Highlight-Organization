@@ -6,8 +6,8 @@ Models: Convolutional Neural Network (CNN)
 
 
 Currently ~
-1. Classify test files for Left/Right/Neither: 97% 
-2. Classify test files for Pass/Run/Fake after cropping out irrelevant side as decided by (1): 97%  
+* Model 1: Classify test files for Left/Right/Neither: 97% 
+* Model 2: Classify test files for Pass/Run/Fake after cropping out irrelevant side as decided by (1): 97%  
 
 ### Goal: 
 - given a folder (89Gb) of .mp4 files divide them into folders based on play type (pass, run, fake fg) and match type (squads/ not-squads). 
