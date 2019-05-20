@@ -2,6 +2,16 @@
 ### Matthew Johnson, 2019
 
 
+Currently ~
+97% on squads/non
+95% on L/R
+75% on playtype
+
+
+idea:
+* check L/R on all images, crop other half out, then train for playtype
+
+
 idea: 
 classes (7):
 * Left-Run, Left-Pass, Left-Fake
