@@ -3,6 +3,12 @@
 
 
 Currently ~
+1. Classify test files for Left/Right/Neither: 97% 
+2. Classify test files for Pass/Run/Fake after cropping out irrelevant side as decided by (1): 97%  
+
+
+
+
 97% on squads/non
 95% on L/R
 75% on playtype
