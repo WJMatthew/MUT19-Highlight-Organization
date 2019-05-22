@@ -4,6 +4,8 @@
 
 Models: Convolutional Neural Network (CNN)
 
+#### Libraries
+CV2 was used for video and image handling and extraction where Pytorch was used for modeling.
 
 Currently ~
 * Model 1: Classify test files for Left/Right/Neither: 97% 
@@ -34,8 +36,15 @@ I began by extracting the final frame of each video as an image. From here I div
 ![sq](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/example_sq_nsq.png)
 
 
+### Results
+Here are a handful of predictions, we hit the nail on the head with the first 10:
+![res1](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/pred_img_all.png)
+
+There were no fakes in that sample so here are some fake results, the play in the bottom corner is incorrectly classified but the model performed well for the most part:
+![res2](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/pred_img_fakes.png)
 
 
+---------------
 
 We could further divide this into other classifications:
 
@@ -53,8 +62,6 @@ TODO A
 * Implement way to not have multiple csvs every where. 
 * Package up code better 
 
-#### Libraries
-CV2 was used for video and image handling and extraction where Pytorch was used for modeling.
 
 Shutil to move files 
 
