@@ -17,8 +17,9 @@ I started this project because I had 89Gb worth of 1 minute video clips containi
 
 I began by extracting the final frame of each video as an image. From here I divided cropping the screencap into top and bottom. Top would tell us whether it was a squads match or not, where the bottom would tell us the play side (home and away matches switch side of play art) and what type of play it was (pass, run, or fake FG). 
 
+
 ### Example of final frame of video with crop locations
-![img](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/crop_locations.jpg)
+![img](http://i.imgur.com/myxdMgq.jpg)
 
 
 ### Cropped and Combined Bottom
