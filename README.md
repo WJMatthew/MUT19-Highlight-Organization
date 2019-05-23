@@ -40,7 +40,7 @@ I began by extracting the final frame of each video as an image. From here I div
 Here are a handful of predictions, we hit the nail on the head with the first 10:
 ![res1](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/pred_img_all.png)
 
-There were no fakes in that sample so here are some fake results, the play in the bottom corner is incorrectly classified but the model performed well for the most part:
+There were no fakes in that sample so here are some fake results, the play in the second row (middle) is incorrectly classified but the model performed well for the most part:
 ![res2](https://github.com/WJMatthew/MUT19-Highlight-Organization/blob/master/img/pred_img_fakes.png)
 
 
